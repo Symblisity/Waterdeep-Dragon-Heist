@@ -1,0 +1,1 @@
+Stadtteil und Handelszentrum in der Mitte von [[Waterdeep]]

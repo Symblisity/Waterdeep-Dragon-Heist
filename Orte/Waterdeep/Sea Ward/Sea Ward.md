@@ -1,0 +1,1 @@
+Stadtteil im nordwesten von [[Waterdeep]]

@@ -1,0 +1,5 @@
+---
+Erschaffer: "?"
+Objekttyp: Schwert
+Preis: "?"
+---

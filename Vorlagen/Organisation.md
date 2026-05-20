@@ -1,0 +1,6 @@
+---
+Standort:
+Gilde:
+Typ:
+Anführer:
+---

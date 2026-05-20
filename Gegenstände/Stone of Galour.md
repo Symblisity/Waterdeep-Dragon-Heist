@@ -1,0 +1,5 @@
+---
+Erschaffer:
+Objekttyp:
+Preis:
+---
