@@ -1,6 +1,6 @@
 ---
 "Rasse:": Wald Gnom
-"Klasse:": "?"
+"Klasse:": Warlock
 "Organisation:": "[[Rackelfucks]]"
 ---
 Jannes

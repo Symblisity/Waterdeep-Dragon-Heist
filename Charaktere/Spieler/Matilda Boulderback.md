@@ -1,5 +1,5 @@
 ---
-"Rasse:": Halbling
+"Rasse:": Stein Gnom
 "Klasse:": Artificer
 "Organisation:": "[[Rackelfucks]]"
 ---

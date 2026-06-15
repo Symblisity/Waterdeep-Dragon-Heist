@@ -1,6 +1,8 @@
 ---
 Größe: Klein
 Habitat: Unterwelt
+AC:
+HP:
 ---
 Sehen aus wie Fledermäuse
 Reagieren nicht auf Speak with Animals

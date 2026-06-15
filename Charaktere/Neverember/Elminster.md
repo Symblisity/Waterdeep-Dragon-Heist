@@ -1,5 +1,5 @@
 ---
-"Rasse:":
+"Rasse:": Mensch
 "Klasse:": Magier
 "Organisation:": "[[Neverember Familie]]"
 ---

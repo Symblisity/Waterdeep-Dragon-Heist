@@ -16,3 +16,5 @@ Deren Symbol ist eine Schlange mit Flügeln
 [[Floon Blagmarr]] und [[Renaer Neverember]] wurden von [[Zentarim]] entführt; Fragwürdig
 [[Floon Blagmarr]] wurde von den angreifenden [[Xanathar Banditen]] entführt
 [[Xanathar Banditen]] suchen nach einem verstecktem Schatz: [[Stone of Galour]]
+wurde wahrscheinlich mit [[Renaer Neverember]] verwechselt
+[[Xanathar]] besaß den [[Stone of Galour]] ihm wurde dieser aber geklaut und beschuldigt die [[Zentarim]]

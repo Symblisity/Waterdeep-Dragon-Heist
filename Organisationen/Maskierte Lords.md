@@ -9,3 +9,5 @@ geheim
 Regieren: [[Waterdeep]]
 geleitet von [[Lara el Silverhand]] als [[Open Lord]]
 Magi Leiter: Blackstaff
+Gewählt von den Nobelmännern der Stadt
+OpenLords werden nach Dienst aus der Stadt entfernt

@@ -1,6 +1,6 @@
 ---
 "Rasse:": Berg Gnom
-"Klasse:": "?"
+"Klasse:": Warlock
 "Organisation:": "[[Rackelfucks]]"
 ---
 Simon

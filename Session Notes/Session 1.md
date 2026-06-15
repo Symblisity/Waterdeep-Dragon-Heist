@@ -4,7 +4,7 @@ Unruhe im [[Jawning Portal]]
 Wir mischen im Kampf ein und setzten den Banditen ziemlich zu
 [[Knorrbert|Jannes]] hat einen [[Volotam Gettam|reich aussehenden Menschen]] beklaut im Chaos des  Kampfes
 Banditen sind definitiv [[Xanathar]] Leute
-[[Knorrbert|Jannes]] wurde von [[Dörnen Barkeeper]] beim Versuch das [[Greatsword ofSharpness|Schwert]] zu stehlen erwischt
+[[Knorrbert|Jannes]] wurde von [[Dörnen Barkeeper]] beim Versuch das [[Greatsword of Sharpness|Schwert]] zu stehlen erwischt
 [[Grommash|Adrian]] hat einen der Banditen in zwei geteilt und ihm ein Ohr abgebissen
 Aus dem [[Jawning Portal]] Loch kommen [[Stirge|Fledermaus]] ähnliche Wesen und es kommen Klopfgeräusche aus dem Loch
 [[Donnibald Rackelfuck|Simon]] schneidet einem toten Banditen eine Hand ab und versteckt sie in seinem Holzbein

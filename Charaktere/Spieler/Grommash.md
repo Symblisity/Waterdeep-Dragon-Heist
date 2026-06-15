@@ -1,6 +1,6 @@
 ---
 "Rasse:": Ork
-"Klasse:": Barbar
+"Klasse:": Barbarian
 "Organisation:": "[[Rackelfucks]]"
 ---
 Adrian

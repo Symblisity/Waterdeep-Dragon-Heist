@@ -1,6 +1,6 @@
 ---
 Größe:
 Habitat:
-AC:
-HP:
+AC: <18
+HP: <12
 ---

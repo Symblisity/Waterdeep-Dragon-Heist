@@ -1,6 +1,6 @@
 ---
 "Rasse:": Mensch
-"Klasse:": Magier
+"Klasse:": Wizzard
 "Organisation:": "[[Rackelfucks]]"
 ---
 Sören

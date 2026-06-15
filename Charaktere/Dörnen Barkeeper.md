@@ -4,5 +4,5 @@
 "Organisation:": "?"
 ---
 Barkeeper im [[Jawning Portal]]
-Hat ein [[Greatsword ofSharpness|gigantisches leuchtendes Schwert]] unter der Teke
+Hat ein [[Greatsword of Sharpness|gigantisches leuchtendes Schwert]] unter der Teke
 ehemaliger Abenteurer

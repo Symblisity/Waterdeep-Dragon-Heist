@@ -3,4 +3,3 @@ Erschaffer:
 Objekttyp:
 Preis:
 ---
-Schlüssel zum [[Vault of Dragons]]
