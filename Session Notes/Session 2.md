@@ -20,7 +20,7 @@ Alle wurden an eine Wand gestellt und verhört bis auf [[Therwyn Hilltopple]], e
 Es war unter der Treppe in den ersten Stock [[Renaer Neverember]] gefangen
 Die [[Kenku]] wollten den   [[Xanathar Banditen]] auflauern
 [[Renaer Neverember]] erzählte uns das es angeblich einen Schatz im Wert von 500.000 Gold unter der Stadt geben soll
-Auch erzählte er uns das er der Meinung war das sein Vater [[Dagult Neverember]] zu unrecht aus der Stadt verbannt worden ist
+Auch erzählte er uns das er der Meinung war das sein Vater [[Charaktere/Maskierte Lords/Dagult Neverember]] zu unrecht aus der Stadt verbannt worden ist
 Im Norden der [[Candlelane]] gibt es einen Eingang zur [[Kanalisation]]
 Der Gefangene [[Kenku]] sagte das wir in der [[Kanalisation]] nach dem Gelben Symbol suchen sollen
 [[Therwyn Hilltopple]] fand ein stück Papier auf dem Dachboden

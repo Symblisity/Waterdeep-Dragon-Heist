@@ -3,4 +3,4 @@
 "Klasse:":
 "Organisation:":
 ---
-Sohn eines ehemaligen [[Open Lord]] [[Dagult Neverember]]
+Sohn eines ehemaligen [[Open Lord]] [[Charaktere/Maskierte Lords/Dagult Neverember]]

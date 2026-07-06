@@ -19,7 +19,7 @@ Bei der [[Fellowship of the Inn Keepers]] angekommen gehen wir zur Rezeption
 10 Gold Bearbeitungsgebühr
 90 Gold Mitgliedgebühren pro Monat
 Bei der Gilde haben wir die Taverne [[Zum schlürfenden Rackelfuck]] angemeldet
-Darauf haben wir uns zu dem [[Jawning Portal]] begeben und den Auftrag [[Halb Elfen Jagt]] angenommen
+Darauf haben wir uns zu dem [[Jawning Portal]] begeben und den Auftrag [[Halb Elfen Jagt - Erledigt]] angenommen
 Wir haben einige Bierchen und Schapps gesoffen
 Danach haben wir uns auf gemacht zur [[Muleskull Tavern]] im [[Dockward]]
 Auf unserem Weg zur [[Muleskull Tavern]] treffen wir [[Scarlet Uncork]] vom [[Institute for Cultural Excellence]] an und sie gab uns den Auftrag [[Goblin jagt]]
